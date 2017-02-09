@@ -46,12 +46,12 @@ Tuesday, February 21: Beta Demo
   * Teleportation
   * Basic multiplayer 
   * 4-5 Levels
-
+  
 More meetings
 
 Tuesday, February 28: Final Demo
 
-#### Game Mechanics
+### Game Mechanics
 Win Conditions: We are choosing between two different modes for winning in our game. 
 
 Survival: Each player has a health meter and dies when they run out of health. The amount of damage that a player takes is determined by:
