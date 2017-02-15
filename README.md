@@ -1,4 +1,4 @@
-## CIS 568: Unreal Engine Project
+## CIS 568: Co-op Tower Defense
 ### Team members: Krishna Bharathala, Devesh Dayal, Natasha Narang, Carolina Zheng
 
 ### Technical Requirements
@@ -20,7 +20,7 @@
 It will probably be challenging to integrate multiplayer into the game. Multiplayer and writing the blueprint logic will likely take the most time and debugging and should be worked on the most up front (given that we have a basic level and assets in place). UX/UI can be left until near the end.
 
 ### Work Division
-Krishna: Multiplayer, teleportation
+Krishna: Multiplayer, HUD
 
 Devesh: Multiplayer, UX/UI
 
@@ -52,15 +52,13 @@ More meetings
 Tuesday, February 28: Final Demo
 
 ### Game Mechanics
-Win Conditions: We are choosing between two different modes for winning in our game. 
+There is one central tower in the game which serves as home base. The players spawn on pillars which circle the tower and have to protect the tower from Goomba Attacks. Goombas spawn randomly throughout the level and travel inwards towards the center of the map. A Regular Goomba will explode after being hit by one arrow, and we hope to add different types for our "Beta Demo" and "Final Game". When a Goomba reaches the tower, it explodes and inflicts some given amount of damage on the tower.  
 
-Survival: Each player has a health meter and dies when they run out of health. The amount of damage that a player takes is determined by:
+* Arrow Mechanics
 
-1. “type” of arrow (Different types have different properties and different levels of damage). Some possibilities are freeze arrows (no damage, but cause the opposing player to lose the ability to teleport for some time) and power arrows (Each player only has three of these but they do double damage).
+   1. “type” of arrow (Different types have different properties and different levels of damage). Some possibilities are freeze arrows (no damage, but cause the goomba to freeze in place) and power arrows (Each player only has three of these but they do double damage).
 
-2. “Power” of arrow: This is determined by how far back the player pulls the arrow. The further back the player pulls, the faster the arrow travels and the more damage it does.
-
-Score: Every time an arrow lands on an opponent, the player gets a certain score determined by the type and power of the arrow as stated above. The first to reach a certain point number wins.
+   2. “Power” of arrow: This is determined by how far back the player pulls the arrow. The further back the player pulls, the faster the arrow travels and the more damage it does.
 
 
 
