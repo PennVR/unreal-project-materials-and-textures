@@ -36,7 +36,7 @@ Sunday, February 12: Team Meeting (working to get alpha demo ready)
 Thursday, February 17: Alpha Demo
 * Features to be completed by Alpha Demo:
    * Basic Arrow Shooting
-   * 2 Levels
+   * Basic Assets in Level
 
 More meetings
 
@@ -45,7 +45,7 @@ Tuesday, February 21: Beta Demo
   * Both types of arrow shooting
   * Teleportation
   * Basic multiplayer 
-  * 4-5 Levels
+  * More detailed asset-building: castle, paths, etc.
   
 More meetings
 
