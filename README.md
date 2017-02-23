@@ -48,6 +48,7 @@ Thursday, February 23: Beta Demo
   * More detailed asset-building: castle, towers, etc.
   * Improved game logic - game-ending logic
   * Vive Controllers Working
+  * Game lobby
   
 More meetings
 
