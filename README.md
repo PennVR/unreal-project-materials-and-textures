@@ -37,15 +37,17 @@ Thursday, February 17: Alpha Demo
 * Features to be completed by Alpha Demo:
    * Basic Arrow Shooting
    * Basic Assets in Level
+   * Xbox Controllers Working
 
 More meetings
 
-Tuesday, February 21: Beta Demo
+Thursday, February 23: Beta Demo
 * Features to be completed by Beta Demo:
   * Both types of arrow shooting
   * Teleportation
-  * Basic multiplayer 
-  * More detailed asset-building: castle, paths, etc.
+  * More detailed asset-building: castle, towers, etc.
+  * Improved game logic - game-ending logic
+  * Vive Controllers Working
   
 More meetings
 
