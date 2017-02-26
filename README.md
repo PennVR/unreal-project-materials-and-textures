@@ -20,9 +20,9 @@
 It will probably be challenging to integrate multiplayer into the game. Multiplayer and writing the blueprint logic will likely take the most time and debugging and should be worked on the most up front (given that we have a basic level and assets in place). UX/UI can be left until near the end.
 
 ### Work Division
-Krishna: Multiplayer, HUD
+Krishna: Multiplayer, Lobby
 
-Devesh: Multiplayer, UX/UI
+Devesh: Multiplayer, UX/UI, Lobby
 
 Natasha: Assets and components, blueprint logic
 
@@ -33,13 +33,28 @@ Friday, February 10: Partial Team Meeting (bootstrapping the project)
 
 Sunday, February 12: Team Meeting (working to get alpha demo ready)
 
-Thursday, February 17: Alpha Demo
+Thursday, February 16: Alpha Demo
 * Features to be completed by Alpha Demo:
    * Basic Arrow Shooting
    * Basic Assets in Level
    * Xbox Controllers Working
+   
+Sunday, February 19
+* Features 
+   * Castle Health
+   * Goomba AI
+   * Castle Explosions
+   * Vive Initial Setup
 
-More meetings
+Wednseday February 22: Meeting
+* Features Started
+   * Lobby creation
+   * Multiplayer
+      * Session Creation
+      * Session Joining
+   * VR
+      * Haptic Feedback
+      * Arrow pullback
 
 Thursday, February 23: Beta Demo
 * Features to be completed by Beta Demo:
@@ -49,8 +64,7 @@ Thursday, February 23: Beta Demo
   * Improved game logic - game-ending logic
   * Vive Controllers Working
   * Game lobby
-  
-More meetings
+  * Basic Multi-player
 
 Tuesday, February 28: Final Demo
 
