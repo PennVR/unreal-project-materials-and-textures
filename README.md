@@ -1,7 +1,7 @@
 ## CIS 568: Co-op Tower Defense
 ### Team members: Krishna Bharathala, Devesh Dayal, Natasha Narang, Carolina Zheng
 
-Check out our project here: 
+Check out our project here: https://www.youtube.com/watch?v=BLJsaGhtmEM
 
 ### Technical Requirements
  * Multiplayer
