@@ -99,7 +99,11 @@ Our team spent a lot of time working on getting multiplayer support for our game
 
 ### What do we wish we had done differently?
 
+* One of the biggest thing we would change is to make the AI more intelligent in the game. Currently all the goombas spawn in the same locations around the map and then converge on the same point. In fact, there’s a funny bug which can occur if the goombas all converge in the castle at the same time. Instead we could have randomly spawned the goombas in various locations, with various speeds and targets.
 
+* We could have also changed the way we displayed castle health. Currently it is on top of the castle which means that you cannot monitor health while inside the castle. Instead we could have had the display on the character some how.
+
+* Other extensions we would have liked to have had the time to implement were multiple arrow types and different damage level goombas.
 
 ### What do we wish you had done differently?
 
