@@ -3,24 +3,6 @@
 
 Check out our project here: https://www.youtube.com/watch?v=BLJsaGhtmEM
 
-### Technical Requirements
- * Multiplayer
- * Game Logic
-    * Game mechanics
-      * Arrow firing movement detection
-    * Character and arrow blueprints
-       * Teleportation
-       * Spawn location/respawn mechanics 
- * Assets
-    * Level creation
-    * Player/arrow components
- * UX/UI
-    * Power Indicators
-    * Visual/haptic feedback on game state changes
-    * Game lobby
-
-It will probably be challenging to integrate multiplayer into the game. Multiplayer and writing the blueprint logic will likely take the most time and debugging and should be worked on the most up front (given that we have a basic level and assets in place). UX/UI can be left until near the end.
-
 ### Work Division
 Krishna: Multiplayer, Lobby
 
@@ -69,6 +51,22 @@ Thursday, February 23: Beta Demo
   * Basic Multi-player
 
 Tuesday, February 28: Final Demo
+ * Multiplayer
+ * Game Logic
+    * Game mechanics
+      * Arrow firing movement detection
+    * Character and arrow blueprints
+       * Teleportation
+       * Spawn location/respawn mechanics 
+ * Assets
+    * Level creation
+    * Player/arrow components
+ * UX/UI
+    * Power Indicators
+    * Visual/haptic feedback on game state changes
+    * Game lobby
+    * Tutorials
+    * Arrow Nocking
 
 ### Game Mechanics
 There is one central tower in the game which serves as home base. The players spawn on pillars which circle the tower and have to protect the tower from Goomba Attacks. Goombas have spawn points throughout the level and travel inwards towards the center of the map. When a Goomba reaches the tower, it explodes and inflicts some amount of damage on the tower.  
