@@ -1,7 +1,7 @@
 ## CIS 568: Co-op Tower Defense
 ### Team members: Krishna Bharathala, Devesh Dayal, Natasha Narang, Carolina Zheng
 
-Check out our project here: https://www.youtube.com/watch?v=BLJsaGhtmEM
+Check out our project here: [Youtube](https://www.youtube.com/watch?v=BLJsaGhtmEM)
 
 ### Work Division
 Krishna: Multiplayer, Lobby
@@ -17,7 +17,7 @@ Friday, February 10: Partial Team Meeting (bootstrapping the project)
 
 Sunday, February 12: Team Meeting (working to get alpha demo ready)
 
-Thursday, February 16: Alpha Demo
+Thursday, February 16: [Alpha Demo](https://github.com/PennVR/unreal-project-materials-and-textures/releases/tag/Alpha)
 * Features to be completed by Alpha Demo:
    * Basic Arrow Shooting
    * Basic Assets in Level
@@ -40,7 +40,7 @@ Wednseday February 22: Meeting
       * Haptic Feedback
       * Arrow pullback
 
-Thursday, February 23: Beta Demo
+Thursday, February 23: [Beta Demo](https://github.com/PennVR/unreal-project-materials-and-textures/releases/tag/Beta)
 * Features to be completed by Beta Demo:
   * Both types of arrow shooting
   * Teleportation
