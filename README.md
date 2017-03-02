@@ -54,25 +54,21 @@ Tuesday, February 28: Final Demo
 ### Game Mechanics
 There is one central tower in the game which serves as home base. The players spawn on pillars which circle the tower and have to protect the tower from Goomba Attacks. Goombas have spawn points throughout the level and travel inwards towards the center of the map. When a Goomba reaches the tower, it explodes and inflicts some amount of damage on the tower.  
 
-* Arrow Mechanics
-There are two types of arrows in the game, teleportation arrows and damage arrows. 
+* Arrow Mechanics: There are two types of arrows in the game, teleportation arrows and damage arrows. 
     * Teleportation Arrows (Silver) allow you to travel anywhere on map within the bounds of the playing field. You use these to get around. 
     * Damage Arrows (Gold) are used to destroy the Goombas attacking your tower.
+    
+* Castle Mechanics: Your castle stars with 100 health points and decreases by 5 everytime a goomba explodes within it. When the health of the castle gets down to 0, the game is over.
+
+* Multiplayer: One player creates a new game and other players search for games within the lobby. When joining a game, the two or more players will spawn at different locations and now have a joint mission to protect their castle at all costs.
 
 ### How to play
 
-* Arrows
-   1. Nock your arrow. Bring your bow and arrow together in front of you and hold down the arrow trigger.
-   2. Charge your bow by pulling back with your arrow hand. The brighter the bow glows, the more force applied to the arrow.
-   3. Fire by releasing the arrow trigger.
-   4. Reload a new arrow by pressing the grip while reaching over your shoulder.
-   5. Toggle between damage (gold) and teleport (silver) arrows by pressing the bow trigger.
-   
-* Castle
-Your castle stars with 100 health points and decreases by 5 everytime a goomba explodes within it. When the health of the castle gets down to 0, the game is over.
-
-* Multiplayer
-One player creates a new game and other players search for games within the lobby. When joining a game, the two or more players will spawn at different locations and now have a joint mission to protect their castle at all costs.
+1. Nock your arrow. Bring your bow and arrow together in front of you and hold down the arrow trigger.
+2. Charge your bow by pulling back with your arrow hand. The brighter the bow glows, the more force applied to the arrow.
+3. Fire by releasing the arrow trigger.
+4. Reload a new arrow by pressing the grip while reaching over your shoulder.
+5. Toggle between damage (gold) and teleport (silver) arrows by pressing the bow trigger.
 
 ### VR Mode
 In our testing we have not felt motion sickness while playing the game. We believe the primary reason for this is due to the fading that we employ during teleportation. There is no other significant movement during the game.
