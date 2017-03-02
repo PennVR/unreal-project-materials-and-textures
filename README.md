@@ -55,7 +55,9 @@ Tuesday, February 28: Final Demo
 There is one central tower in the game which serves as home base. The players spawn on pillars which circle the tower and have to protect the tower from Goomba Attacks. Goombas have spawn points throughout the level and travel inwards towards the center of the map. When a Goomba reaches the tower, it explodes and inflicts some amount of damage on the tower.  
 
 * Arrow Mechanics
-There are two types of arrows in the game, teleportation arrows and damage arrows. Teleportation Arrows (Silver) allow you to travel anywhere on map within the bounds of the playing field. You use these to get around. Damage Arrows (Gold) are used to destroy the Goombas attacking your tower.
+There are two types of arrows in the game, teleportation arrows and damage arrows. 
+    * Teleportation Arrows (Silver) allow you to travel anywhere on map within the bounds of the playing field. You use these to get around. 
+    * Damage Arrows (Gold) are used to destroy the Goombas attacking your tower.
 
 ### How to play
 
