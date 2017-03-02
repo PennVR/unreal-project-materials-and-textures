@@ -36,6 +36,7 @@ Tuesday, February 28: Final Demo
     * Character and arrow blueprints
        * Teleportation
        * Spawn location/respawn mechanics 
+    * End Game Logic
  * Assets
     * Level creation
     * Player/arrow components
@@ -45,6 +46,10 @@ Tuesday, February 28: Final Demo
     * Game lobby
     * Tutorials
     * Arrow Nocking
+ * VR
+    * Vive Controllers working
+    * No Motion Sickness
+    
 
 ### Game Mechanics
 There is one central tower in the game which serves as home base. The players spawn on pillars which circle the tower and have to protect the tower from Goomba Attacks. Goombas have spawn points throughout the level and travel inwards towards the center of the map. When a Goomba reaches the tower, it explodes and inflicts some amount of damage on the tower.  
