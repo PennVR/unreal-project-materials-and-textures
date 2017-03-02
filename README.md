@@ -13,35 +13,13 @@ Natasha: Assets and components, blueprint logic
 Carolina: Blueprint logic, UX/UI
 
 ### Timeline
-Friday, February 10: Partial Team Meeting (bootstrapping the project)
-
-Sunday, February 12: Team Meeting (working to get alpha demo ready)
 
 Thursday, February 16: [Alpha Demo](https://github.com/PennVR/unreal-project-materials-and-textures/releases/tag/Alpha)
-* Features to be completed by Alpha Demo:
    * Basic Arrow Shooting
    * Basic Assets in Level
    * Xbox Controllers Working
-   
-Sunday, February 19
-* Features 
-   * Castle Health
-   * Goomba AI
-   * Castle Explosions
-   * Vive Initial Setup
-
-Wednseday February 22: Meeting
-* Features Started
-   * Lobby creation
-   * Multiplayer
-      * Session Creation
-      * Session Joining
-   * VR
-      * Haptic Feedback
-      * Arrow pullback
 
 Thursday, February 23: [Beta Demo](https://github.com/PennVR/unreal-project-materials-and-textures/releases/tag/Beta)
-* Features to be completed by Beta Demo:
   * Both types of arrow shooting
   * Teleportation
   * More detailed asset-building: castle, towers, etc.
