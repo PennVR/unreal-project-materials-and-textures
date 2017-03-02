@@ -48,6 +48,9 @@ We also wanted to provide the user visual feedback as to the power level of the 
 ##### Teleportation fade
 We wanted the teleportation transition to be less jarring for the user. To do this, we employed a camera fade. Once a user's teleportation arrow hits the ground, we start a camera fade transparent to black for 0.2 seconds. Then, we teleport the user to the new location, and start a camera fade from black to transparent for another 0.2 seconds. We needed to use a timer with a callback to our teleport function to delay the teleportation until the user had faded to black.
 
+##### Castle fire
+When the castle health reaches certain levels, the castle catches fire to indicate that the health of the castle is diminishing.
+
 
 ### VR Mode
 In our testing we have not felt motion sickness while playing the game. We believe the primary reason for this is due to the fading that we employ during teleportation. There is no other significant movement during the game.
