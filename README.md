@@ -6,7 +6,7 @@ Check out our project here: [Youtube](https://www.youtube.com/watch?v=BLJsaGhtmE
 ### Game Mechanics
 There is one central castle in the game which serves as home base. The players spawn on one of three pillars which circle the castle and have to protect the castle from goomba attacks. Goombas have spawn points throughout the level and travel inwards towards the center of the map. When a goomba reaches the castle, it explodes and inflicts some amount of damage on the castle.  
 
-#####Arrow Mechanics
+##### Arrow Mechanics
 There are two types of arrows in the game, teleportation arrows and damage arrows. 
 * Teleportation arrows (silver) allow you to teleport anywhere on map within the bounds of the playing field.
 * Damage arrows (gold) are used to destroy the goombas attacking your castle.
